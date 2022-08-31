@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7iUHeYH6U6OrmAOQMRvuo0pXDaLsmQ9upKAYXCpsAWKGzw45Fzc9ZfzO-7-sh_3YV_gw&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbass-moussawi&label=Profile%20views&color=0e75b6&style=flat" alt="abbass-moussawi" /> </p>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **upgrading my skills**
 
 - 🌱 I’m currently learning **JavaScript|React**
 
