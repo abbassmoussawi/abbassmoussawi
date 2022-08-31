@@ -3,15 +3,13 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7iUHeYH6U6OrmAOQMRvuo0pXDaLsmQ9upKAYXCpsAWKGzw45Fzc9ZfzO-7-sh_3YV_gw&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbass-moussawi&label=Profile%20views&color=0e75b6&style=flat" alt="abbass-moussawi" /> </p>
 
-- 🔭 I’m currently working on **upgrading my skills**
+- I’m currently working on **upgrading my skills**
 
-- 🌱 I’m currently learning **JavaScript|React**
+- I’m currently learning **JavaScript|React**
 
-- 💬 Ask me about **PHP|OOP**
+-  contact me **abbass.y.moussawi@gmail.com**
 
-- 📫 How to reach me **abbass.y.moussawi@gmail.com**
-
-- ⚡ Fun fact **One of my main professional goals is to one day become the minister of education to change the old curriculum**
+- Fun fact **One of my main professional goals is to one day become the minister of education to change the old curriculum**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
