@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning ** JavaScript|React**
+- 🌱 I’m currently learning **JavaScript|React**
 
 - 💬 Ask me about **PHP|OOP**
 
