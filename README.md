@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **JavaScript | PHP | OOP | Node.Js**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **React|Laravel**
+- 💬 Ask me about **JavaScript|React|PHP|OOP**
 
 - 📫 How to reach me **abbass.y.moussawi@gmail.com**
 
